@@ -2,6 +2,6 @@
 
 test 1
 
-goto [basic intro](/basic/intro)
+goto [basic intro](/basic/intro.md)
 ![](img/screenshot.jpg)
 
