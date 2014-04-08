@@ -2,4 +2,4 @@
 
 test 1
 
-![](screenshot.jpg)
+![](img/screenshot.jpg)
