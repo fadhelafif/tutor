@@ -7,9 +7,7 @@ test 1
 add code at `functions.php`
 
 ```php
-<?php
 add_theme_support('calibrefx-wraps', array('header', 'subnav', 'inner', 'footer', 'footer-widget'));
-?>
 ```
 
 add code at `app/hooks/childfx_header_hook.php`
